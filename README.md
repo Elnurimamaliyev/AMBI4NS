@@ -1,6 +1,6 @@
-# Modeling EEG Responses using Amplitude-Binned Envelope Features with mTRF Framework
+# ABER4NS - Modeling EEG Responses using Amplitude-Binned Envelope Features with mTRF Framework
 
-A MATLAB-based research project for analyzing EEG data using Linear regression model - the multivariate Temporal Response Function (mTRF) framework - with novel amplitude-binned (AB) envelope features.
+ABER4NS (Amplitude-Binned Envelope Regression for Natural Soundscapes) is a MATLAB-based research project for analyzing EEG data using Linear regression model - the multivariate Temporal Response Function (mTRF) framework - with novel amplitude-binned (AB) envelope features.
 
 ## 📖 Overview
 
