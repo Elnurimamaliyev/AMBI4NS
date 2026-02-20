@@ -1,6 +1,6 @@
-# ABER4NS - Modeling EEG Responses using Amplitude-Binned Envelope Features with mTRF Framework
+# AMBI4NS - Modeling EEG Responses using Amplitude-Binned Envelope Features with mTRF Framework
 
-ABER4NS (Amplitude-Binned Envelope Regression for Natural Soundscapes) is a MATLAB-based research project for analyzing EEG data using Linear regression model - the multivariate Temporal Response Function (mTRF) framework - with novel amplitude-binned (AB) envelope features.
+AMBI4NS (Amplitude-Binned Intensities for Naturalistic Soundscapes) is a MATLAB-based research project for analyzing EEG data using a linear regression model within the multivariate Temporal Response Function (mTRF) framework. The method introduces novel amplitude-binned (AB) envelope features to better capture neural responses to naturalistic soundscapes.
 
 ## 📖 Overview
 
